@@ -1,0 +1,26 @@
+{
+  "name": "wsteel/tp60unit",
+  "type": "phpunit",
+  "description": "A simple unit test for thinkphp6.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wang.Gang",
+      "email": "glogger@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+
+  "autoload": {
+    "psr-4": {
+      "tests\\": "tests",
+      "wsteel\\tp60unit\\": "src/wsteel/tp60unit"
+    }
+  },
+  "keywords": [
+    "tp60unit",
+    "phpunit",
+    "ThinkPHP6.0"
+  ],
+  "homepage": "https://github.com/wsteel/tp60unit"
+}
