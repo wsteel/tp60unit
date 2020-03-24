@@ -19,6 +19,8 @@ File | Settings | Languages & Frameworks | PHP | Test Frameworks
 
     PHPUnit library -> Path to phpunit.phar -> _YOUR_phpunit-*.phar
 
+    Test Runner -> Default bootstrap file:  __YOUR_APP__\vendor\autoload.php
+
 **demo**
 
 filename
